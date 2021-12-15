@@ -1,0 +1,28 @@
+{
+  "create:recipes/create.base/crafting/kinetics/mysterious_cuckoo_clock": {
+    "criteria": {
+      "has_item": "2021-12-15 21:24:42 +0100"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2021-12-15 21:22:25 +0100"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2021-12-15 21:22:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_gravelly_hills": "2021-12-15 21:25:03 +0100",
+      "minecraft:plains": "2021-12-15 21:16:41 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}
